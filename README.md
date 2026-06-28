@@ -164,6 +164,3 @@ Revenue Report
 ## 👨‍💻 Author
 
 **Varunnachimuthu S**
-
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub Profile URL)*
