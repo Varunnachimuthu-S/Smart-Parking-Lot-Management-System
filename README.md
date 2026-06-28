@@ -161,6 +161,6 @@ Revenue Report
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Created By
 
 **Varunnachimuthu S**
